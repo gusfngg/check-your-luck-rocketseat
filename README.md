@@ -5,7 +5,7 @@
 ![preview](./assets/preview.png)
 
 
-[🔗 Click here to access]()
+[🔗 Click here to access](https://gusfngg.github.io/check-your-luck-rocketseat/)
 
 ## 🔧 Tech
 
